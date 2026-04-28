@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Sasmith
+pool: agent
 
 
 steps:
